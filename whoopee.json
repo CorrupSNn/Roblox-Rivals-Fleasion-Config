@@ -1,0 +1,173 @@
+{
+  "replacement_rules": [
+    {
+      "name": "whoopee body",
+      "replace_ids": [
+        82199642795777
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17573783121
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        14246425725,
+        101789865262582,
+        102919828461258,
+        124620000165506,
+        103443089323686,
+        14513998818,
+        14510062019,
+        14510494068,
+        14580344400
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "sfxexplosion",
+      "replace_ids": [
+        13455969017
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/CorrupSNn/Roblox-Rivals-Fleasion/raw/refs/heads/main/WhoopeeGrenadeSOUND.mp3"
+    },
+    {
+      "name": "lobstartsfx",
+      "replace_ids": [
+        14522129645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 83611875921439
+    },
+    {
+      "name": "throwstartsfx",
+      "replace_ids": [
+        14522129645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 83611875921439
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        14509967864
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14509967864
+    },
+    {
+      "name": "icon high res",
+      "replace_ids": [
+        14526777692
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17672086704
+    },
+    {
+      "name": "icon low res",
+      "replace_ids": [
+        17160801411
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17672062933
+    },
+    {
+      "name": "equip",
+      "replace_ids": [
+        14509948480
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14509948480
+    },
+    {
+      "name": "sprint",
+      "replace_ids": [
+        14580328848
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14580328848
+    },
+    {
+      "name": "throw",
+      "replace_ids": [
+        14514005799
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14514005799
+    },
+    {
+      "name": "throwstart",
+      "replace_ids": [
+        14510034776
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14510034776
+    },
+    {
+      "name": "throwidle",
+      "replace_ids": [
+        14510038568
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14510038568
+    },
+    {
+      "name": "throwfinish",
+      "replace_ids": [
+        14510046795
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14510046795
+    },
+    {
+      "name": "lobstart",
+      "replace_ids": [
+        14580355189
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14580355189
+    },
+    {
+      "name": "lob",
+      "replace_ids": [
+        14510505277
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14510505277
+    },
+    {
+      "name": "lobidle",
+      "replace_ids": [
+        14580363373
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14580363373
+    },
+    {
+      "name": "lobfinish",
+      "replace_ids": [
+        14580368724
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 14580368724
+    }
+  ]
+}

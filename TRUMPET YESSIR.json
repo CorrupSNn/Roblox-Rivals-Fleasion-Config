@@ -1,0 +1,51 @@
+{
+  "replacement_rules": [
+    {
+      "name": "REMOVE",
+      "replace_ids": [
+        70494501482896,
+        70528849669897
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "MODEL",
+      "replace_ids": [
+        70494501482896
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 105491653609738
+    },
+    {
+      "name": "USE SOUND",
+      "replace_ids": [
+        73325703605178,
+        94406584083681
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 112012319935983
+    },
+    {
+      "name": "ANIM idk why same ids in scraped games it shows js 0.5 secs longer anim)",
+      "replace_ids": [
+        120111163675397
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 120111163675397
+    },
+    {
+      "name": "ICON",
+      "replace_ids": [
+        104600246515190,
+        97997387092919
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 113408430051712
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "replacement_rules": [
+    {
+      "name": "left-fist",
+      "replace_ids": [
+        12307734932
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/leftfist2.obj"
+    },
+    {
+      "name": "right-fist",
+      "replace_ids": [
+        12307583853
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/rfist1.obj"
+    }
+  ]
+}

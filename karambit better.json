@@ -1,0 +1,112 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Extra Parts Removal",
+      "replace_ids": [
+        12482022259,
+        12482022363
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Karambit Mesh",
+      "replace_ids": [
+        12482022430
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\FarRiz67\\Downloads\\model.obj"
+    },
+    {
+      "name": "Inspect Anim",
+      "replace_ids": [
+        12613329711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "sprint anim",
+      "replace_ids": [
+        12886796453
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742894186
+    },
+    {
+      "name": "equip anim",
+      "replace_ids": [
+        12613363718
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742841521
+    },
+    {
+      "name": "attack1 anim",
+      "replace_ids": [
+        12613340305
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742860878
+    },
+    {
+      "name": "attack2 anim",
+      "replace_ids": [
+        12613350645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742864831
+    },
+    {
+      "name": "heavy attack1 anim",
+      "replace_ids": [
+        12613354440
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742872634
+    },
+    {
+      "name": "idle anim",
+      "replace_ids": [
+        12613190591
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742849437
+    },
+    {
+      "name": "rare inspect anim",
+      "replace_ids": [
+        12613320859
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18742879471
+    },
+    {
+      "name": "Icon",
+      "replace_ids": [
+        17160800983
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 18766863586
+    },
+    {
+      "name": "Equip Sound Removal",
+      "replace_ids": [
+        13160326139,
+        14427935597
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "replacement_rules": [
+    {
+      "name": "shoot1",
+      "replace_ids": [
+        16526185100
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\User\\Downloads\\waterunotail1.MP3"
+    },
+    {
+      "name": "shoot2",
+      "replace_ids": [
+        16526184479
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\User\\Downloads\\waterunotail2.MP3"
+    },
+    {
+      "name": "shoot3",
+      "replace_ids": [
+        16526184730
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\User\\Downloads\\waterunotail3.MP3"
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        14653989624
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\User\\Downloads\\wateruzibody.obj"
+    },
+    {
+      "name": "scope",
+      "replace_ids": [
+        14653989728
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\User\\Downloads\\wateruziwatertankthing.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        14653989374
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "mag",
+      "replace_ids": [
+        14653989514
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\User\\Downloads\\wateruzimag.obj"
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160798908
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17821233590
+    }
+  ]
+}

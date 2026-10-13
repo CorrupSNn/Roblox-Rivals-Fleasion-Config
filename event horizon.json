@@ -1,0 +1,153 @@
+{
+  "replacement_rules": [
+    {
+      "name": "event body",
+      "replace_ids": [
+        13188892761
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/greendesign323232/rivals-ehorizno/refs/heads/main/eventhorizonbody.obj"
+    },
+    {
+      "name": "event barrel",
+      "replace_ids": [
+        14774727092
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/greendesign323232/rivals-ehorizno/refs/heads/main/eventhorizonblackthing.obj"
+    },
+    {
+      "name": "event equip",
+      "replace_ids": [
+        13269929260
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 81764105421530
+    },
+    {
+      "name": "event idle",
+      "replace_ids": [
+        13269931582
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 133028871112073
+    },
+    {
+      "name": "event sprint",
+      "replace_ids": [
+        13321899382
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 124791899818888
+    },
+    {
+      "name": "event inspect",
+      "replace_ids": [
+        13269934368
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 89426100452654
+    },
+    {
+      "name": "event shoot1",
+      "replace_ids": [
+        13269963346
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 131324265853213
+    },
+    {
+      "name": "event reload",
+      "replace_ids": [
+        13642104835
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121991964753861
+    },
+    {
+      "name": "event reload full",
+      "replace_ids": [
+        13269951125
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 130611507137983
+    },
+    {
+      "name": "event sfx",
+      "replace_ids": [
+        13270206222
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 93542288707517
+    },
+    {
+      "name": "event reload",
+      "replace_ids": [
+        13455229188
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122971606160018
+    },
+    {
+      "name": "cleaning shii",
+      "replace_ids": [
+        13188892651,
+        13188892532,
+        13188893310,
+        13188892855,
+        13188893017,
+        13188893115,
+        14778413014
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "event reload sfx",
+      "replace_ids": [
+        13455229044
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17672502879
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160799574
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 80749667426815
+    },
+    {
+      "name": "remove this bullet",
+      "replace_ids": [
+        14002915797
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "sound fix",
+      "replace_ids": [
+        13455395017,
+        13455394948,
+        13455394948
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}

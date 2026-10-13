@@ -1,0 +1,88 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Black bat scythe body for color wrap",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Bodyblack",
+          "replace_ids": [
+            13753170893
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/b48AP9WUv/bodyblack.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Bat scythe default body for any wrap",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Body",
+          "replace_ids": [
+            13753170893
+          ],
+          "mode": "cdn",
+          "enabled": false,
+          "cdn_url": "https://0uang-one.vercel.app/v/7KsWEhOK2/body.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Ignore",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Attack1",
+          "replace_ids": [
+            14111617408
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/ZQDt8xUEW/attack1.mp3"
+        },
+        {
+          "name": "Attack2",
+          "replace_ids": [
+            14111617269
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/icTqVNmDJ/attack2.mp3"
+        },
+        {
+          "name": "Lowres",
+          "replace_ids": [
+            17160800186
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 131711174838548
+        },
+        {
+          "name": "Highres",
+          "replace_ids": [
+            13834995858
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 104168535403995
+        },
+        {
+          "name": "Wing",
+          "replace_ids": [
+            13753170814
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/zl19RwNUA/wing.obj"
+        }
+      ]
+    }
+  ]
+}

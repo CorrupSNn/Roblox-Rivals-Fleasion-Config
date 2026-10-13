@@ -1,0 +1,213 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Body [MODEL]",
+      "replace_ids": [
+        13903792316
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://0uang-one.vercel.app/v/s2QikjMFR/body.obj"
+    },
+    {
+      "name": "Remove Bolts [MODEL]",
+      "replace_ids": [
+        13760790106
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Attack1 [SOUND]",
+      "replace_ids": [
+        14000023581
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/LSDatSfG/FLEASION-STUFF/raw/main/922.mp3"
+    },
+    {
+      "name": "Attack2 [SOUND]",
+      "replace_ids": [
+        14000023392
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/LSDatSfG/FLEASION-STUFF/raw/main/81.mp3"
+    },
+    {
+      "name": "DeflectIdle1 [SOUND]",
+      "replace_ids": [
+        14798337918
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116868301514983
+    },
+    {
+      "name": "Equip [ANIMATION]",
+      "replace_ids": [
+        13992707294
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 132067233727648
+    },
+    {
+      "name": "Idle [ANIMATION]",
+      "replace_ids": [
+        13992711211
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 121111797899373
+    },
+    {
+      "name": "Sprint [ANIMATION]",
+      "replace_ids": [
+        13992717984,
+        14069980959
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 129559350922104
+    },
+    {
+      "name": "Inspect [ANIMATION]",
+      "replace_ids": [
+        13992715669
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119980219668284
+    },
+    {
+      "name": "Inspect Rare [ANIMATION]",
+      "replace_ids": [
+        14411504784
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 86021718302540
+    },
+    {
+      "name": "Attack1 [ANIMATION]",
+      "replace_ids": [
+        13992724397
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 74282353959486
+    },
+    {
+      "name": "Attack2 [ANIMATION]",
+      "replace_ids": [
+        13992729204
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 74531272029155
+    },
+    {
+      "name": "DeflectIdle [ANIMATION]",
+      "replace_ids": [
+        14761220206
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 131072510521727
+    },
+    {
+      "name": "Deflect1 [ANIMATION]",
+      "replace_ids": [
+        14761234917
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 132022220827223
+    },
+    {
+      "name": "Deflect2 [ANIMATION]",
+      "replace_ids": [
+        14761221711
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116315405171252
+    },
+    {
+      "name": "Deflect3 [ANIMATION]",
+      "replace_ids": [
+        14761223422
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 110358509711635
+    },
+    {
+      "name": "Deflect4 [ANIMATION]",
+      "replace_ids": [
+        14761225204
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 98242486936084
+    },
+    {
+      "name": "Deflect5 [ANIMATION]",
+      "replace_ids": [
+        14761232380
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 81132288854196
+    },
+    {
+      "name": "Inspect and RareInspect [SOUND]",
+      "replace_ids": [
+        14427782350,
+        14427935597,
+        14000093824,
+        13158735106
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Image",
+      "replace_ids": [
+        17160801158
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 94679283541658
+    },
+    {
+      "name": "Handle [MODEL]",
+      "replace_ids": [
+        13760790008
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://0uang-one.vercel.app/v/8NWG6Omq1/handle.obj"
+    },
+    {
+      "name": "Attack1 [ANIMATION]",
+      "replace_ids": [
+        13992724397
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 74282353959486
+    },
+    {
+      "name": "Attack2 [ANIMATION]",
+      "replace_ids": [
+        13992729204
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 74531272029155
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "replacement_rules": [
+    {
+      "name": "remove",
+      "replace_ids": [
+        14241791573,
+        14241791734,
+        14242054035,
+        14002774206,
+        14241792580,
+        14002774305
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "handel",
+      "replace_ids": [
+        14002831630
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/greendesign323232/pumpkin-over-the-spy/refs/heads/main/deaglewraps.obj"
+    },
+    {
+      "name": "body",
+      "replace_ids": [
+        14242054178
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/greendesign323232/pumpkin-over-the-spy/refs/heads/main/deaglebody.obj"
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160800299
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17821265603
+    },
+    {
+      "name": "shoot sound",
+      "replace_ids": [
+        14417089307,
+        14417088974,
+        14417089152,
+        14417089046
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 17803630344
+    }
+  ]
+}

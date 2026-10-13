@@ -1,0 +1,84 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "BODY",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Satchel Body",
+          "replace_ids": [
+            111319295872696
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\FarRiz67\\Downloads\\model (2).obj"
+        },
+        {
+          "name": "remove",
+          "replace_ids": [
+            129357957202626,
+            87546390135975,
+            123563845986019,
+            138805549853994,
+            125258747465100,
+            104440368867933,
+            129504437671598
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "detonator",
+          "replace_ids": [
+            123563845986019
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\FarRiz67\\Downloads\\model (3).obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "ICON",
+      "expanded": false,
+      "children": [
+        {
+          "name": "low res  icon",
+          "replace_ids": [
+            82237471151891
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 76787046046890
+        },
+        {
+          "name": "icon high res",
+          "replace_ids": [
+            132559258532984
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 112434777433399
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "SOUND",
+      "expanded": false,
+      "children": [
+        {
+          "name": "detonatesfx",
+          "replace_ids": [
+            75265411785539
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 98591199808287
+        }
+      ]
+    }
+  ]
+}

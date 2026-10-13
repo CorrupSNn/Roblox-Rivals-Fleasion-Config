@@ -1,0 +1,177 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Megadrill Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "megadrill drill",
+          "replace_ids": [
+            13532093742
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Mega-Drill/raw/refs/heads/main/mega%20drill%20drill.obj"
+        },
+        {
+          "name": "mega drill body",
+          "replace_ids": [
+            13532093356
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Mega-Drill/raw/refs/heads/main/megadrill%20body.obj"
+        },
+        {
+          "name": "REMOVE",
+          "replace_ids": [
+            13532093568,
+            13532094406,
+            13532094210,
+            13642660758,
+            18199162011
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sounds",
+      "expanded": true,
+      "children": [
+        {
+          "name": "attack",
+          "replace_ids": [
+            13654455151
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 18763594759
+        },
+        {
+          "name": "Remove_This_Sound",
+          "replace_ids": [
+            13645858825
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Equip_Sound",
+          "replace_ids": [
+            13645858977
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 13646484249
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Animations",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Equip Animation",
+          "replace_ids": [
+            13592814661,
+            0
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 138372275073193
+        },
+        {
+          "name": "Idle Animation",
+          "replace_ids": [
+            13592826733
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 140629755205961
+        },
+        {
+          "name": "Sprint Animation",
+          "replace_ids": [
+            13592830532
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 97696205442716
+        },
+        {
+          "name": "Inspect Animation",
+          "replace_ids": [
+            13592833402
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 100278468126849
+        },
+        {
+          "name": "Attack 1 Animation",
+          "replace_ids": [
+            13592837146,
+            1
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 91522107959844
+        },
+        {
+          "name": "Attack 2 Animation",
+          "replace_ids": [
+            13592839019,
+            1
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 124800571097886
+        },
+        {
+          "name": "Hold Start Animation",
+          "replace_ids": [
+            13592848848,
+            0
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 133316959169350
+        },
+        {
+          "name": "Hold Loop Animation",
+          "replace_ids": [
+            13592852203,
+            2
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 114437991323948
+        },
+        {
+          "name": "Hold Finish Animation",
+          "replace_ids": [
+            13592854657,
+            0
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 71679978204304
+        }
+      ]
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160801873
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 76663867023998
+    }
+  ]
+}

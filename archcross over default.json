@@ -1,0 +1,147 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "body",
+          "replace_ids": [
+            81291045320105
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/cFm8YOZsD/bodyanywrap.obj"
+        },
+        {
+          "name": "remove",
+          "replace_ids": [
+            103428289294174,
+            91182997679206,
+            103918211053795,
+            76155503538875,
+            112269321366473
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "arrow",
+          "replace_ids": [
+            96479817443897
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/5DmrSh6Ns/arrowanywrap.obj"
+        },
+        {
+          "name": "scope",
+          "replace_ids": [
+            116870937608189
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/O4IcZZs7V/scope.obj"
+        },
+        {
+          "name": "lens",
+          "replace_ids": [
+            131412183341416
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/WQMreVtEd/lens.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Anims",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Equip",
+          "replace_ids": [
+            112687956509295
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 75912270381788
+        },
+        {
+          "name": "Idle",
+          "replace_ids": [
+            104427457349511
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 139012099919554
+        },
+        {
+          "name": "Sprint",
+          "replace_ids": [
+            77438855428730
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 75736189275330
+        },
+        {
+          "name": "Inspect",
+          "replace_ids": [
+            133850935692254
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 76999540737871
+        },
+        {
+          "name": "Shoot",
+          "replace_ids": [
+            70595132902958
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 133769779992853
+        },
+        {
+          "name": "Reload",
+          "replace_ids": [
+            110216216870037
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/fJk2JVuuk/ArchCrossBowReloadbyPlusnoctonia.rbxm"
+        }
+      ]
+    },
+    {
+      "name": "Reload",
+      "replace_ids": [
+        13682532502
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 114610550422028
+    },
+    {
+      "name": "Shoot",
+      "replace_ids": [
+        82715240396507
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 81230732872783
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        140211832612284
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 94981733362451
+    }
+  ]
+}

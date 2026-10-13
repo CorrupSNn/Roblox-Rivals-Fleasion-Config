@@ -1,0 +1,88 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "body",
+      "expanded": false,
+      "children": [
+        {
+          "name": "actual",
+          "replace_ids": [
+            124614507878585
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/andrislinux1/aces-dagger/refs/heads/main/actual.obj"
+        },
+        {
+          "name": "blade",
+          "replace_ids": [
+            73385702554774
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/andrislinux1/aces-dagger/refs/heads/main/blade.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": false,
+      "children": [
+        {
+          "name": "high res",
+          "replace_ids": [
+            138508026547275
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 78850921968876
+        },
+        {
+          "name": "low res",
+          "replace_ids": [
+            91885384580845
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 139089881483398
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "sound",
+      "expanded": false,
+      "children": [
+        {
+          "name": "reload",
+          "replace_ids": [
+            99837158417289
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 73179276891844
+        },
+        {
+          "name": "throw1",
+          "replace_ids": [
+            101759165907297
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 114331009697074
+        },
+        {
+          "name": "throw2",
+          "replace_ids": [
+            76357741438822
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 127456921117902
+        }
+      ]
+    }
+  ]
+}

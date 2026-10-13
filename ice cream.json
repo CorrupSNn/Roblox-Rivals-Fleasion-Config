@@ -1,0 +1,176 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        13398409251
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\FarRiz67\\Downloads\\model (4).obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        13398409557,
+        13398409605,
+        13398409659,
+        13398409399,
+        13398409487,
+        13398409326,
+        13398409181,
+        13398367408,
+        13398367308,
+        13398351358,
+        13398351226,
+        16823034404
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "equip anim",
+      "replace_ids": [
+        13437797120
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 125117198599060
+    },
+    {
+      "name": "idle anim",
+      "replace_ids": [
+        13437801643
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 79096246794515
+    },
+    {
+      "name": "sprint anim",
+      "replace_ids": [
+        13437818586
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 109221362981539
+    },
+    {
+      "name": "inspect anim",
+      "replace_ids": [
+        13437816050
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 117172464049925
+    },
+    {
+      "name": "use anim",
+      "replace_ids": [
+        13437821805
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 129172470189135
+    },
+    {
+      "name": "quickuse anim",
+      "replace_ids": [
+        17123088750
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 79654162483185
+    },
+    {
+      "name": "usesfx1",
+      "replace_ids": [
+        13236026280
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 115253895253213
+    },
+    {
+      "name": "usesfx2",
+      "replace_ids": [
+        13505411414
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 137209644295911
+    },
+    {
+      "name": "usesfx3",
+      "replace_ids": [
+        13160326139
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 135586619814232
+    },
+    {
+      "name": "usesfx4",
+      "replace_ids": [
+        13505411336
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 92587536325720
+    },
+    {
+      "name": "quickuse1",
+      "replace_ids": [
+        13158735106
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 137209644295911
+    },
+    {
+      "name": "quickuse2",
+      "replace_ids": [
+        137209644295911
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 135586619814232
+    },
+    {
+      "name": "icon low res",
+      "replace_ids": [
+        17160800734
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 131246559128209
+    },
+    {
+      "name": "icon high res",
+      "replace_ids": [
+        13717497368
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 109818553950813
+    },
+    {
+      "name": "idle anim (pls work)",
+      "replace_ids": [
+        13437801643
+      ],
+      "mode": "id",
+      "enabled": false,
+      "with_id": 14240522872
+    },
+    {
+      "name": "inspectsfx",
+      "replace_ids": [
+        13456860532
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122265646069920
+    }
+  ]
+}

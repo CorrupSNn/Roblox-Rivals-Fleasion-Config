@@ -1,0 +1,68 @@
+{
+  "replacement_rules": [
+    {
+      "name": "side",
+      "replace_ids": [
+        14652718299
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/gabrirayito/lolidkxd/raw/refs/heads/main/Body%20good%20inverted%20(1).obj"
+    },
+    {
+      "name": "asset replace",
+      "replace_ids": [
+        17160682738
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 100015754284323
+    },
+    {
+      "name": "boneclaw shoot",
+      "replace_ids": [
+        13087362838
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/gabrirayito/lolidkxd/raw/refs/heads/main/Bonecalw%20reeal%20sohoot.mp3"
+    },
+    {
+      "name": "REMOVE",
+      "replace_ids": [
+        12613284036,
+        12613283569,
+        12613284768
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "mag",
+      "replace_ids": [
+        12613284529
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/gabrirayito/lolidkxd/raw/refs/heads/main/boneclaw%20mag%20full%20(1).obj"
+    },
+    {
+      "name": "bolt replace",
+      "replace_ids": [
+        12613283355
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/gabrirayito/lolidkxd/raw/refs/heads/main/bolt%2021312%20(1).obj"
+    },
+    {
+      "name": "boneclaw body",
+      "replace_ids": [
+        12613284249
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/gabrirayito/lolidkxd/raw/refs/heads/main/bones%20good%20inverted%20(1).obj"
+    }
+  ]
+}

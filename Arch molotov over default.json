@@ -1,0 +1,137 @@
+{
+  "replacement_rules": [
+    {
+      "name": "body",
+      "replace_ids": [
+        14515234161
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://0uang-one.vercel.app/v/pXTwAhCY5/body.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        14515393884,
+        14515234008
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "type": "group",
+      "name": "Anims",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Equip",
+          "replace_ids": [
+            14509948480
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/ubMk552IQ/equip.rbxmx"
+        },
+        {
+          "name": "Idle",
+          "replace_ids": [
+            14509967864
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/IwmwlUYil/idle.rbxmx"
+        },
+        {
+          "name": "Sprint",
+          "replace_ids": [
+            14580328848
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/3BF1zpwfo/sprint.rbxmx"
+        },
+        {
+          "name": "Inspect",
+          "replace_ids": [
+            14509964565
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/tu709js1P/inspect.rbxmx"
+        },
+        {
+          "name": "ThrowStart",
+          "replace_ids": [
+            14510034776
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/dbwDZolGA/throwstart.rbxmx"
+        },
+        {
+          "name": "ThrowIdle",
+          "replace_ids": [
+            14510038568
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/HQPCySP1k/throwidle.rbxmx"
+        },
+        {
+          "name": "ThrowFinish",
+          "replace_ids": [
+            14510046795
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/8XzTFRf3e/throwfinish.rbxmx"
+        },
+        {
+          "name": "LobStart",
+          "replace_ids": [
+            14580355189
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/TcpfVugYG/lobstart.rbxmx"
+        },
+        {
+          "name": "LobIdle",
+          "replace_ids": [
+            14580363373
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/dSLfyX14J/lobidle.rbxmx"
+        },
+        {
+          "name": "LobFinish",
+          "replace_ids": [
+            14580368724
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://0uang-one.vercel.app/v/5kfhwS3fg/lobfinish.rbxmx"
+        }
+      ]
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        109264750627289
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 96589300342777
+    },
+    {
+      "name": "a",
+      "replace_ids": [
+        12062501141
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://0uang-one.vercel.app/v/hWZzJSGeW/arch.png"
+    }
+  ]
+}
