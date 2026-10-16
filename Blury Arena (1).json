@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Blurry Arena",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/7658055825.png"
+    }
+  ]
+}

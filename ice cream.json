@@ -7,7 +7,7 @@
       ],
       "mode": "local",
       "enabled": true,
-      "local_path": "C:\\Users\\FarRiz67\\Downloads\\model (4).obj"
+      "local_path": "C:\\Users\\FarRiz67\\Downloads\\IceCreamCOLOURED.obj"
     },
     {
       "name": "remove",
@@ -23,7 +23,8 @@
         13398367308,
         13398351358,
         13398351226,
-        16823034404
+        16823034404,
+        13456860532
       ],
       "mode": "id",
       "enabled": true
@@ -43,7 +44,7 @@
         13437801643
       ],
       "mode": "id",
-      "enabled": true,
+      "enabled": false,
       "with_id": 79096246794515
     },
     {
@@ -119,22 +120,13 @@
       "with_id": 92587536325720
     },
     {
-      "name": "quickuse1",
+      "name": "quickuse2",
       "replace_ids": [
-        13158735106
+        17123622923
       ],
       "mode": "id",
       "enabled": true,
       "with_id": 137209644295911
-    },
-    {
-      "name": "quickuse2",
-      "replace_ids": [
-        137209644295911
-      ],
-      "mode": "id",
-      "enabled": true,
-      "with_id": 135586619814232
     },
     {
       "name": "icon low res",
@@ -166,7 +158,7 @@
     {
       "name": "inspectsfx",
       "replace_ids": [
-        13456860532
+        13160326139
       ],
       "mode": "id",
       "enabled": true,

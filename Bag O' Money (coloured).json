@@ -1,0 +1,67 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "BODY",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Bag O' Money Coloured",
+          "replace_ids": [
+            111319295872696
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/CorrupSNn/Roblox-Rivals-Fleasion/refs/heads/main/Bag%20O'%20Money%20COLOURED.obj"
+        },
+        {
+          "name": "Bottle O' Money Coloured",
+          "replace_ids": [
+            123563845986019
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/CorrupSNn/Roblox-Rivals-Fleasion/refs/heads/main/Bottle%20O'%20Money%20COLOURED.obj"
+        },
+        {
+          "name": "remove",
+          "replace_ids": [
+            129357957202626,
+            87546390135975,
+            138805549853994,
+            125258747465100,
+            104440368867933,
+            129504437671598
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "ICON",
+      "expanded": false,
+      "children": [
+        {
+          "name": "low res icon",
+          "replace_ids": [
+            82237471151891
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 129192426700659
+        },
+        {
+          "name": "high res icon",
+          "replace_ids": [
+            132559258532984
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 118634288543707
+        }
+      ]
+    }
+  ]
+}
