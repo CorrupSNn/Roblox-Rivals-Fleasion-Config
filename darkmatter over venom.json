@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "done",
+      "replace_ids": [
+        76556449465721
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\FarRiz67\\Downloads\\image_a306ea13.jpg"
+    }
+  ]
+}

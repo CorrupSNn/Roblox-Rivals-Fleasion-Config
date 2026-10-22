@@ -1,0 +1,157 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "BODY",
+      "expanded": false,
+      "children": [
+        {
+          "name": "pencil body over default",
+          "replace_ids": [
+            12482022430
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/CorrupSNn/Roblox-Rivals-Fleasion/refs/heads/main/Pencil%20Body%20Coloured.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "ANIMATIONS",
+      "expanded": false,
+      "children": [
+        {
+          "name": "equipanim",
+          "replace_ids": [
+            12613363718
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 80229159202635
+        },
+        {
+          "name": "idleanim",
+          "replace_ids": [
+            12613190591
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 103922766408805
+        },
+        {
+          "name": "sprint",
+          "replace_ids": [
+            12886796453
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 102764817412825
+        },
+        {
+          "name": "attk1",
+          "replace_ids": [
+            12613340305
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 132855854009455
+        },
+        {
+          "name": "attk2",
+          "replace_ids": [
+            12613350645
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 113749609796354
+        },
+        {
+          "name": "heavy",
+          "replace_ids": [
+            12613354440
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 113801567235608
+        },
+        {
+          "name": "heavy hit",
+          "replace_ids": [
+            123415605337684
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 82947020987630
+        },
+        {
+          "name": "inspect",
+          "replace_ids": [
+            12613329711
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 121051466122511
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "ICON",
+      "expanded": false,
+      "children": [
+        {
+          "name": "icon low res",
+          "replace_ids": [
+            17160800983
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 131450909376802
+        },
+        {
+          "name": "icon high res",
+          "replace_ids": [
+            13197583583
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 70869179257286
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "SFX",
+      "expanded": false,
+      "children": [
+        {
+          "name": "equipsound",
+          "replace_ids": [
+            13160326139,
+            14427935597
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 13160326139
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "REMOVE",
+      "expanded": false,
+      "children": [
+        {
+          "name": "remove",
+          "replace_ids": [
+            12482022259,
+            12482022363
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}

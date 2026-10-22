@@ -1,0 +1,111 @@
+{
+  "replacement_rules": [
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160801745
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 127492118111080
+    },
+    {
+      "name": "crabclawsoundattack1",
+      "replace_ids": [
+        13160401062
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 126069605787926
+    },
+    {
+      "name": "REM",
+      "replace_ids": [
+        13160489311
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "EQUIP ANIM",
+      "replace_ids": [
+        12557487419
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118613334706565
+    },
+    {
+      "name": "IDLE ANIM",
+      "replace_ids": [
+        12557500357
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 114031465691795
+    },
+    {
+      "name": "sprint anim",
+      "replace_ids": [
+        12644426893
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 75844357551534
+    },
+    {
+      "name": "inspect anim",
+      "replace_ids": [
+        12557511090
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 78706543895380
+    },
+    {
+      "name": "attack1",
+      "replace_ids": [
+        12557515008
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 114196108388891
+    },
+    {
+      "name": "attack2",
+      "replace_ids": [
+        12557516966
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116913791502033
+    },
+    {
+      "name": "inspect sound",
+      "replace_ids": [
+        13160489311
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 126069605787926
+    },
+    {
+      "name": "left-fist",
+      "replace_ids": [
+        12307734932
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CorrupSNn/Roblox-Rivals-Fleasion/refs/heads/main/crab%20left3.obj"
+    },
+    {
+      "name": "right-fist",
+      "replace_ids": [
+        12307583853
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CorrupSNn/Roblox-Rivals-Fleasion/refs/heads/main/crab%20right8.obj"
+    }
+  ]
+}

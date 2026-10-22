@@ -3,7 +3,7 @@
     {
       "type": "group",
       "name": "BODY",
-      "expanded": false,
+      "expanded": true,
       "children": [
         {
           "name": "Bag O' Money Coloured",
@@ -21,7 +21,7 @@
           ],
           "mode": "cdn",
           "enabled": true,
-          "cdn_url": "https://raw.githubusercontent.com/CorrupSNn/Roblox-Rivals-Fleasion/refs/heads/main/Bottle%20O'%20Money%20COLOURED.obj"
+          "cdn_url": "https://raw.githubusercontent.com/CorrupSNn/Roblox-Rivals-Fleasion/refs/heads/main/bottle%20o'%20money%20coloured.obj"
         },
         {
           "name": "remove",
