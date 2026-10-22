@@ -1,0 +1,54 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "BODY",
+      "expanded": false,
+      "children": [
+        {
+          "name": "right-fist",
+          "replace_ids": [
+            12307583853
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/CorrupSNn/Roblox-Rivals-Fleasion/refs/heads/main/Festive%20no-wrap%20colored%20right.obj"
+        },
+        {
+          "name": "left-fist",
+          "replace_ids": [
+            12307734932
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/CorrupSNn/Roblox-Rivals-Fleasion/refs/heads/main/Festive%20no-wrap%20colored%20right.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "ICON",
+      "expanded": false,
+      "children": [
+        {
+          "name": "low res icon",
+          "replace_ids": [
+            17160801745
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 102757458529795
+        },
+        {
+          "name": "high res icon",
+          "replace_ids": [
+            16560051320
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 98061476050478
+        }
+      ]
+    }
+  ]
+}

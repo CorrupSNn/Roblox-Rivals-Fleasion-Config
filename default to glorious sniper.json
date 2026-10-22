@@ -1,0 +1,57 @@
+{
+  "replacement_rules": [
+    {
+      "name": "model",
+      "replace_ids": [
+        13188892761
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\FarRiz67\\Documents\\GloriousSniperCOLOUREDbody.obj"
+    },
+    {
+      "name": "remove",
+      "replace_ids": [
+        13188893310,
+        13188892855,
+        13188893017,
+        13188893115,
+        14778413014,
+        14774727092,
+        13188892855,
+        13188893310,
+        14002915797,
+        13188892651
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "mag body",
+      "replace_ids": [
+        13188892532
+      ],
+      "mode": "local",
+      "enabled": true,
+      "local_path": "C:\\Users\\FarRiz67\\Documents\\GloriousSniperMagCOLOURED.obj"
+    },
+    {
+      "name": "icon low res",
+      "replace_ids": [
+        17160799574
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118012090175286
+    },
+    {
+      "name": "icon high res",
+      "replace_ids": [
+        13197583098
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 94794978921271
+    }
+  ]
+}

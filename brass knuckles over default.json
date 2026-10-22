@@ -1,0 +1,54 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "BODY",
+      "expanded": false,
+      "children": [
+        {
+          "name": "right hand",
+          "replace_ids": [
+            12307734932
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\FarRiz67\\Downloads\\model (2).obj"
+        },
+        {
+          "name": "left hand",
+          "replace_ids": [
+            12307583853
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\FarRiz67\\Downloads\\model (2).obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "ICON",
+      "expanded": false,
+      "children": [
+        {
+          "name": "low res icon",
+          "replace_ids": [
+            17160801745
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 106879679389340
+        },
+        {
+          "name": "high res icon",
+          "replace_ids": [
+            16560051320
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 116610825846650
+        }
+      ]
+    }
+  ]
+}

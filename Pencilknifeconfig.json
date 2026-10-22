@@ -1,0 +1,152 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Body And Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "body",
+          "replace_ids": [
+            12482022259
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://cdn.jsdelivr.net/gh/royalpalacefonkmixer/umm-cdn-maker/model%20-%202026-10-08T212711.418.obj"
+        },
+        {
+          "name": "invis",
+          "replace_ids": [
+            12482022363
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://cdn.jsdelivr.net/gh/royalpalacefonkmixer/umm-cdn-maker/invis.obj"
+        },
+        {
+          "name": "handle",
+          "replace_ids": [
+            12482022430
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://cdn.jsdelivr.net/gh/royalpalacefonkmixer/umm-cdn-maker/model%20-%202026-10-08T212708.137.obj"
+        },
+        {
+          "name": "icon",
+          "replace_ids": [
+            17160800983,
+            13197583583
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 70869179257286
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Animations",
+      "expanded": true,
+      "children": [
+        {
+          "name": "equipanim",
+          "replace_ids": [
+            12613363718
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 80229159202635
+        },
+        {
+          "name": "idleanim",
+          "replace_ids": [
+            12613190591
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 103922766408805
+        },
+        {
+          "name": "sprint",
+          "replace_ids": [
+            12886796453
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 102764817412825
+        },
+        {
+          "name": "attk1",
+          "replace_ids": [
+            12613340305
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 132855854009455
+        },
+        {
+          "name": "attk2",
+          "replace_ids": [
+            12613350645
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 113749609796354
+        },
+        {
+          "name": "heavy",
+          "replace_ids": [
+            12613354440
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 113801567235608
+        },
+        {
+          "name": "heavy hit",
+          "replace_ids": [
+            123415605337684
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 82947020987630
+        },
+        {
+          "name": "inspect",
+          "replace_ids": [
+            12613329711
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 121051466122511
+        },
+        {
+          "name": "remove this animation",
+          "replace_ids": [
+            12613320859
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sounds",
+      "expanded": true,
+      "children": [
+        {
+          "name": "equipsound",
+          "replace_ids": [
+            13160326139,
+            14427935597
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 13160326139
+        }
+      ]
+    }
+  ]
+}
